@@ -4,7 +4,7 @@ import featureImg from "../images/awesome-feature.png";
 
 function Features() {
   return (
-    <div className="w-full -mt-56 relative z-50">
+    <div className="w-full -mt-56 relative z-40">
       <div className="max-w-screen-xl mx-auto flex flex-col p-5 px-16 justify-center items-center space-y-20 ">
         <div className="flex flex-col md:flex-row justify-start md:justify-between items-center">
           <div className="p-20 flex flex-col justify-center items-center text-white bg-dark space-y-10 flex-1">
